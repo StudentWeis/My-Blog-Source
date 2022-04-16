@@ -70,6 +70,8 @@ date: 2021-03-18 12:44:20
 | Wikipedia📜 | [StudentWei](https://zh.wikipedia.org/wiki/User:StudentWei) |
 | Instagram📷 | [Studentwei](https://www.instagram.com/studentwei/) |
 | ORCID📝 | [HengYi Wei](https://orcid.org/0000-0003-4068-821X) |
+| Crowdin✒ | [StudentWeis](https://crowdin.com/profile/studentweis/) |
+| OpenCollective🚪 | [StudentWeis](https://opencollective.com/studentweis) |
 | Bilibili▶   |       [山冰之冰](https://space.bilibili.com/376065343)       |
 | 豆瓣📕        |       [山冰](https://www.douban.com/people/196327505/)       |
 | 知乎🖊 | [山冰之冰](https://www.zhihu.com/people/wei-heng-yi-eh) |
